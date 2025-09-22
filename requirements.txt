@@ -1,6 +1,7 @@
-psycopg2-binary
-pydantic
-typing
+fastapi
+uvicorn
+pymongo
+python-dotenv
 langchain
-langchain_google_genai
-langchain_core
+langchain-core
+langchain-google-genai
